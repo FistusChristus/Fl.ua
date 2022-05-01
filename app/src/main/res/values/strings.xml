@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fl.ua</string>
+    <string name="home">Home</string>
+    <string name="letters">Letters</string>
+    <string name="orders">Orders</string>
+    <string name="profile">Profile</string>
+</resources>
